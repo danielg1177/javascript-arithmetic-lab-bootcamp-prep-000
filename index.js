@@ -6,3 +6,9 @@ function add(number) {
 function subtract() {
   return number -= 3
 }
+function multiply() {
+  return number *= 2
+}
+function divide() {
+  return number /= 2
+}
