@@ -12,3 +12,21 @@ function multiply() {
 function divide() {
   return number /= 2
 }
+function add(a,b) {
+  return a + b
+}
+function subtract(a,b) {
+  return a - b
+}
+function multiply(a,b) {
+  return a * b
+}
+function divide(a,b) {
+  a / b
+}
+function increment(n) {
+  return n++
+}
+function decrement(n) {
+  return n--
+}
